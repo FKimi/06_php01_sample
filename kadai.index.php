@@ -7,7 +7,7 @@
     <title>アンケート入力</title>
 </head>
 <body>
-    <h1>アンケート</h1>
+    <h1>おすすめ漫画のアンケート</h1>
     <form action="kadai.create.php" method="post">
         <label for="nickname">ニックネーム：</label>
         <input type="text" id="nickname" name="nickname" required><br><br>
